@@ -39,6 +39,7 @@ install Steps
 3) Download the txtbrowser file and uncompress the files to your .vim directory:
 
     $ tar xvf txtbrowser-1.3.6.tar.bz2 -C ~/
+ 
     .vim/
     .vim/doc/
     .vim/doc/txtbrowser.cnx
