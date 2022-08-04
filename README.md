@@ -1,8 +1,5 @@
 # txtbrowser
 Browse plain text easily(show the title tag and syntax highlight)
-TxtBrowser : Browse plain text easily(show the title tag and syntax highlight)
-
- script karma  	Rating 39/15, Downloaded by 895 	 Comments, bugs, improvements  	Vim wiki
 
 created by
 yp guo
